@@ -37,6 +37,10 @@ Porcel Paola 51783/
 ├── reglas.pdf
 └── README.md
 
+# CLONAR REPOSITORIO 
+
+git clone https://github.com/porcelpaola/51783
+
 # INSTRUCCIONES PARA EJECUTAR
 
 Para analizar un archivo de entrada, siguir estos pasos:
